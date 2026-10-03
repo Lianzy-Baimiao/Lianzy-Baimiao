@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=39D353&center=true&vCenter=true&width=620&height=42&lines=while+(true)+%7B+build()%3B+ship()%3B+%7D;Python+%C2%B7+Lua+%C2%B7+JavaScript+%C2%B7+TypeScript;%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA+%C2%B7+Always+Building" alt="" />
-
-</div>
-
-<div align="center">
-
-#### 贪吃蛇贡献图 · Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lianzy-Baimiao/Lianzy-Baimiao/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lianzy-Baimiao/Lianzy-Baimiao/output/snake.svg" />
@@ -18,21 +10,19 @@
 
 <div align="center">
 
-#### 数据 · Stats
+#### <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="22" alt="" />&nbsp; 数据 · Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lianzy-Baimiao&show_icons=true&count_private=true&hide=commits&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github&custom_title=%E6%95%B0%E6%8D%AE%20%C2%B7%20Stats" alt="" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianzy-Baimiao&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&custom_title=%E8%AF%AD%E8%A8%80%20%C2%B7%20Languages" alt="" />
+
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="86" alt="" />
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="86" alt="" />
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="86" alt="" />
 
 </div>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%20%C2%B7%20Member%20Since-2015--07--19-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,55:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
