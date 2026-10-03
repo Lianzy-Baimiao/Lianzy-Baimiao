@@ -10,15 +10,10 @@
 
 <div align="center">
 
-#### <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="22" alt="" />&nbsp; 数据 · Stats
+#### 数据 · Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lianzy-Baimiao&show_icons=true&count_private=true&hide=commits&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github&custom_title=%E6%95%B0%E6%8D%AE%20%C2%B7%20Stats" alt="" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianzy-Baimiao&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&custom_title=%E8%AF%AD%E8%A8%80%20%C2%B7%20Languages" alt="" />
-
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="86" alt="" />
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="86" alt="" />
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="86" alt="" />
-
 </div>
 
 <div align="center">
