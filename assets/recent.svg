@@ -3,8 +3,8 @@
 <rect width="840" height="226" rx="8" fill="#0d1117"/>
 <text x="16" y="35" class="n">LiteView</text>
 <rect x="270" y="18" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="35" text-anchor="middle" class="v">v1.10.0</text>
-<text x="364" y="35" class="d">2026-11-08</text>
+<text x="309" y="35" text-anchor="middle" class="v">v1.10.1</text>
+<text x="364" y="35" class="d">2026-11-09</text>
 <text x="470" y="35" class="s">LiteView 轻量看图：Rust 编写，离…</text>
 <line x1="16" y1="50" x2="824" y2="50" stroke="#21262d"/>
 <text x="16" y="75" class="n">astrbot_plugin_bililive</text>
