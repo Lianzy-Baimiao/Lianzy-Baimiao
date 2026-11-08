@@ -20,8 +20,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
-          git diff --quiet README.md && exit 0
+          git add -N assets/langs.svg; git diff --quiet README.md assets/langs.svg && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: 更新近期更新列表"
+          git add README.md assets/langs.svg
+          git commit -m "chore: 更新近期更新与语言统计"
           git push

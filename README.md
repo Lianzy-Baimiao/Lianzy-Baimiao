@@ -12,7 +12,7 @@
 
 #### 语言 · Languages
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianzy-Baimiao&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&custom_title=%E8%AF%AD%E8%A8%80%20%C2%B7%20Languages" alt="" />
+<img height="165" src="./assets/langs.svg" alt="语言 · Languages" />
 
 </div>
 
