@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="226" viewBox="0 0 840 226">
 <style>.n{font:600 15px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#c9d1d9}.v{font:700 13px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#0d1117}.d{font:500 14px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#8b949e}.s{font:400 14px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#8b949e}</style>
 <rect width="840" height="226" rx="8" fill="#0d1117"/>
-<text x="16" y="35" class="n">LiteTray</text>
+<text x="16" y="35" class="n">AudioPin</text>
 <rect x="270" y="18" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="35" text-anchor="middle" class="v">v5.16.2</text>
-<text x="364" y="35" class="d">2026-11-11</text>
-<text x="470" y="35" class="s">轻量 Windows 多屏托盘与自定义时钟，集…</text>
+<text x="309" y="35" text-anchor="middle" class="v">v0.1.7</text>
+<text x="364" y="35" class="d">2026-11-12</text>
+<text x="470" y="35" class="s">Rust 原生 Windows 音频守护：AM…</text>
 <line x1="16" y1="50" x2="824" y2="50" stroke="#21262d"/>
-<text x="16" y="75" class="n">LiteView</text>
+<text x="16" y="75" class="n">LiteTray</text>
 <rect x="270" y="58" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="75" text-anchor="middle" class="v">v1.10.1</text>
-<text x="364" y="75" class="d">2026-11-09</text>
-<text x="470" y="75" class="s">LiteView 轻量看图：Rust 编写，离…</text>
+<text x="309" y="75" text-anchor="middle" class="v">v5.16.2</text>
+<text x="364" y="75" class="d">2026-11-11</text>
+<text x="470" y="75" class="s">轻量 Windows 多屏托盘与自定义时钟，集…</text>
 <line x1="16" y1="90" x2="824" y2="90" stroke="#21262d"/>
-<text x="16" y="115" class="n">astrbot_plugin_bililive</text>
+<text x="16" y="115" class="n">LiteView</text>
 <rect x="270" y="98" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="115" text-anchor="middle" class="v">v2.4.7</text>
-<text x="364" y="115" class="d">2026-11-08</text>
-<text x="470" y="115" class="s">B站订阅助手 · AstrBot 插件：直播开…</text>
+<text x="309" y="115" text-anchor="middle" class="v">v1.10.1</text>
+<text x="364" y="115" class="d">2026-11-09</text>
+<text x="470" y="115" class="s">LiteView 轻量看图：Rust 编写，离…</text>
 <line x1="16" y1="130" x2="824" y2="130" stroke="#21262d"/>
-<text x="16" y="155" class="n">astrbot_plugin_wow</text>
+<text x="16" y="155" class="n">astrbot_plugin_bililive</text>
 <rect x="270" y="138" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="155" text-anchor="middle" class="v">v1.1.48</text>
+<text x="309" y="155" text-anchor="middle" class="v">v2.4.7</text>
 <text x="364" y="155" class="d">2026-11-08</text>
-<text x="470" y="155" class="s">魔兽世界综合插件（AstrBot）：WCL 战…</text>
+<text x="470" y="155" class="s">B站订阅助手 · AstrBot 插件：直播开…</text>
 <line x1="16" y1="170" x2="824" y2="170" stroke="#21262d"/>
-<text x="16" y="195" class="n">astrbot_plugin_keyword_reply</text>
+<text x="16" y="195" class="n">astrbot_plugin_wow</text>
 <rect x="270" y="178" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="195" text-anchor="middle" class="v">v1.0.8</text>
+<text x="309" y="195" text-anchor="middle" class="v">v1.1.48</text>
 <text x="364" y="195" class="d">2026-11-08</text>
-<text x="470" y="195" class="s">关键字自动回复插件（带 Web 面板）：关键字…</text>
+<text x="470" y="195" class="s">魔兽世界综合插件（AstrBot）：WCL 战…</text>
 </svg>
