@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="226" viewBox="0 0 840 226">
 <style>.n{font:600 15px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#c9d1d9}.v{font:700 13px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#0d1117}.d{font:500 14px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#8b949e}.s{font:400 14px "Segoe UI",Ubuntu,"Microsoft YaHei",sans-serif;fill:#8b949e}</style>
 <rect width="840" height="226" rx="8" fill="#0d1117"/>
-<text x="16" y="35" class="n">LiteTray</text>
+<text x="16" y="35" class="n">FluentCal</text>
 <rect x="270" y="18" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="35" text-anchor="middle" class="v">v5.17.3</text>
-<text x="364" y="35" class="d">2026-11-25</text>
-<text x="470" y="35" class="s">轻量 Windows 多屏托盘与自定义时钟，集…</text>
+<text x="309" y="35" text-anchor="middle" class="v">v0.3.25</text>
+<text x="364" y="35" class="d">2026-11-27</text>
+<text x="470" y="35" class="s">原生 Windows 桌面日历与甘特图：任务拖…</text>
 <line x1="16" y1="50" x2="824" y2="50" stroke="#21262d"/>
-<text x="16" y="75" class="n">FluentCal</text>
+<text x="16" y="75" class="n">LiteTray</text>
 <rect x="270" y="58" width="78" height="24" rx="12" fill="#39d353"/>
-<text x="309" y="75" text-anchor="middle" class="v">v0.3.24</text>
-<text x="364" y="75" class="d">2026-11-23</text>
-<text x="470" y="75" class="s">原生 Windows 桌面日历与甘特图：任务拖…</text>
+<text x="309" y="75" text-anchor="middle" class="v">v5.17.3</text>
+<text x="364" y="75" class="d">2026-11-25</text>
+<text x="470" y="75" class="s">轻量 Windows 多屏托盘与自定义时钟，集…</text>
 <line x1="16" y1="90" x2="824" y2="90" stroke="#21262d"/>
 <text x="16" y="115" class="n">LiteView</text>
 <rect x="270" y="98" width="78" height="24" rx="12" fill="#39d353"/>
